@@ -1,0 +1,20 @@
+{
+  "name": "ai-enabled-b2b-fintech-invoice-management-system",
+  "version": "1.0.0",
+  "description": "A web application to help the people working in the Accounts Receivable departments in their day-to-day activities. Made with :<br>\r ![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)\r ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)\r ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)\r ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)\r ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pradumn203/AI-enabled-B2B-fintech-invoice-management-system.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pradumn203/AI-enabled-B2B-fintech-invoice-management-system/issues"
+  },
+  "homepage": "https://github.com/pradumn203/AI-enabled-B2B-fintech-invoice-management-system#readme"
+}
